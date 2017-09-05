@@ -1,0 +1,19 @@
+{
+  "name": "ringo-firebaseauth-demo",
+  "version": "0.0.1",
+  "description": "Firebase Authentication for RingoJS.",
+  "author": {
+    "name":  "Philipp Naderer",
+    "web":   "https://naderer-puiu.at"
+  } ,
+  "dependencies": {
+    "gestalt": ">=0.1.1",
+    "validator": ">=2.0.0",
+    "httpserver": ">=0.3.0",
+    "stick": ">=0.7.0"
+  },
+  "engines": {
+    "ringojs": ">=1.1.0"
+  },
+  "main": "./main.js"
+}

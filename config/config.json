@@ -1,0 +1,13 @@
+{
+  "firebase": {
+    "accountKey": "/Users/philipp/Code/connector/local/firebaseAccountKey.json",
+    "databaseUrl": "https://<replace-me>.firebaseio.com"
+  },
+  "server": {
+    "vhosts": ["127.0.0.1", "localhost"],
+    "http": {
+      "host": "0.0.0.0",
+      "port": 8080
+    }
+  }
+}
